@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/jakub/Desktop/Studia/sem 5/Java (JwIUM)/lab1/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jakub/Desktop/Studia/sem 5/Java (JwIUM)/lab1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lab1 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'lab1 1.0-SNAPSHOT API'
+com.mycompany.lab1
+pl.polsl.lab.kontroler
+pl.polsl.lab.model
+pl.polsl.lab.widok
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\src\main\java = 1697885077233
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\allclasses-index.html = 1698014194576
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\allpackages-index.html = 1698014194578
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\element-list = 1698014194467
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\help-doc.html = 1698014194606
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\index-all.html = 1698014194598
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\index.html = 1698014194559
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\jquery-ui.overrides.css = 1698014194620
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\member-search-index.js = 1698014194582
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\module-search-index.js = 1698014194579
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\overview-summary.html = 1698014194600
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\overview-tree.html = 1698014194555
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\package-search-index.js = 1698014194580
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\script.js = 1698014194609
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\search.js = 1698014194612
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\serialized-form.html = 1698014194506
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\stylesheet.css = 1698014194608
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\tag-search-index.js = 1698014194582
+C:\Users\jakub\Desktop\Studia\sem 5\Java (JwIUM)\lab1\target\site\apidocs\type-search-index.js = 1698014194581
